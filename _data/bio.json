@@ -1,169 +1,221 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Nirmal Karthikeyan",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/nirmal.png",
+    "email": "nirmalkarthikeyan1503@gmail.com",
+    "phone": "+91 82205 89062",
+    "website": "https://nirmalkarthikeyan1503.medium.com",
+    "summary": "An aspiring undergraduate student seeking an internship in an organization that can cater to his interests of Android development and system administration. Experienced in leading a team and looking to develop the self while being an asset for the organization.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "1/419, Krishnamurthy Street (EAST), NGGO Colony",
+      "postalCode": "641-022",
+      "city": "Coimbatore",
+      "countryCode": "India",
+      "region": "Tamilnadu"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "cyberwizard1001",
+        "url": "http://github.com/cyberwizard1001"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "nirmalkarthikeyan",
+        "url": "https://www.linkedin.com/in/nirmal-karthikeyan/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "cyberwizard1001",
+        "url": "http://twitter.com/cyberwizard1001"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "homenum_.revelio",
+        "url": "http://instagram.com/homenum_.revelio"
+      },
+      {
+      
+        "network": "medium",
+        "username": "nirmalkarthikeyan",
+        "url": "https://medium.com/nirmalkarthikeyan1503.medium.com"
+      },
+      {
+        "network": "blogger",
+        "username": "nirmalkarthikeyan",
+        "url": "https://nimmysbasketofthoughts.blogspot.com"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "NodeMCU",
+        "Raspberry Pi"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Android Development",
       "keywords": [
+        "Java",
+        "Kotlin"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "UI Design",
       "keywords": [
+        "Adobe XD",
+        "Figma",
+        "Adobe Illustrator"
       ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "75%",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "Dart",
+        "Javascript"
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
+      "name": "Toolsets/Operating Systems",
+      "level": "80%",
       "keywords": [
+        "Linux",
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Jira",
+        "Design tools (Adobe XD, Figma, Adobe Illustrator)"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Amrita School of Engineering, Amrita Vishwa Vidyapeetham",
+      "area": "Computer Science and Engineering (expected May 2023)",
+      "studyType": "B.Tech.",
+      "startDate": "2019-04-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "8.79",
       "courses": [
+      ]
+    },
+    {
+      "institution": "Suguna PIP School, Coimbatore",
+      "area": "PCMCs",
+      "studyType": "AISSCE",
+      "startDate": "2018-04-01",
+      "endDate": "2019-03-01",
+      "gpa": "9.16",
+      "courses": [
+        "Maths",
+        "Physics", 
+        "Chemistry",
+        "Computer Science"
+      ]
+    },
+    {
+      "institution": "Amrita Vidyalayam, Nallampalayam",
+      "area": "PCMCs",
+      "studyType": "AISSE",
+      "startDate": "2016-04-01",
+      "endDate": "2017-03-01",
+      "gpa": "10.0",
+      "courses": [
+        "Maths",
+        "Physics", 
+        "Chemistry",
+        "Computer Science",
+        "Languages",
+        "Social Sciences"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Aishwarya Enterprises, Coimbatore",
+      "position": "Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-12-01",
+      "endDate": "2020-01-01",
+      "summary": "To learn the basics of Internet of Things devices",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Learnt embedded C programming and basics of communication, working of 7 segment displays, UART WiFi module communication, observed PCB assembly and testing."
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Sierra Digital Inc, Coimbatore",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
-      "summary": "",
+      "summary": "To understand the workings of SAP and its clients",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Learnt to work with the SAP HANA database, and their cloud based development environment. Learnt the interconnect between NodeJS and HANA, and writing frontends using UI5."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Google Developer Student Clubs",
+      "website": "https://dscase.tech",
+      "position": "Lead",
+      "startDate": "2021-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead of a community endorsed by Google Inc working in Amrita to share and collaborate between different fields.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Planned and hosted workshops on multiple topics, including Android development, open source technologies, and web development."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "ASCII Newsletter",
+      "website": "https://intranet.cb.amrita.edu/newsletter/ascii",
+      "position": "Editor and Person in Charge",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "summary": "Official newsletter of the Department of Computer Science and Engineering",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Have authored, edited, and published articles for the ASCII newsletter."
+      ]
+    },
+    {
+      "organization": "Student Energy Amrita",
+      "website": "https://intranet.cb.amrita.edu/events/2021/student-energy-induction-event",
+      "position": "Chair of Editorial",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "summary": "In-charge of content generation at the upcoming Student Energy Amrita club",
+      "highlights": [
+        "Have authored, edited, and published posts for Student Energy Amrita."
+      ]
+    },
+    {
+      "organization": "TEDxAmritaVishwaVidyapeetham",
+      "website": "https://www.ted.com/tedx/events/47533",
+      "position": "Chair of Curation",
+      "startDate": "2021-05-01",
+      "endDate": "2021-12-08",
+      "summary": "Part of the curation and editorial teams in the TEDxAmritaVishwaVidyapeetham team.",
+      "highlights": [
+        "Curated talks for TEDxAmritaVishwaVidyapeetham."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+      "title": "Paper Publication",
+      "date": "2020-12-08",
+      "awarder": "Theem College of Engineering, Boisar, India",
+      "summary": "An analysis of the possible health effects of online education on students and teachers."
     }
   ]
 }
